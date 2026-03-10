@@ -1,0 +1,5 @@
+{
+  "name": "Business Proposal Evaluator",
+  "description": "An AI assistant that evaluates business proposals, performs SWOT analysis, and provides risk assessment and strategic suggestions.",
+  "requestFramePermissions": []
+}
